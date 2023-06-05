@@ -1,0 +1,11 @@
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\bin\Debug\Q2_CS19020.exe.config
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\bin\Debug\Q2_CS19020.exe
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\bin\Debug\Q2_CS19020.pdb
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.csproj.AssemblyReference.cache
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.csproj.SuggestedBindingRedirects.cache
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.Form1.resources
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.Properties.Resources.resources
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.csproj.GenerateResource.cache
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.csproj.CoreCompileInputs.cache
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.exe
+F:\volume D\New Volume\UOK Acd\L2 2SEM\CSCI 22042 VP\Assignment\A1\Q2_CS19020\obj\Debug\Q2_CS19020.pdb
